@@ -1,0 +1,770 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="590"
+   height="414"
+   viewBox="13 80 590 414"
+   version="1.1"
+   id="svg86"
+   sodipodi:docname="sol.svg"
+   inkscape:version="1.4.4 (dcaf3e7, 2026-05-05)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs86" />
+  <sodipodi:namedview
+     id="namedview86"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="1.9863893"
+     inkscape:cx="449.30769"
+     inkscape:cy="177.96109"
+     inkscape:window-width="2560"
+     inkscape:window-height="1377"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg86" />
+  <style
+     id="style1">
+  .wire  { fill: none; stroke: #000; stroke-width: 2; stroke-linejoin: round; }
+  .bad   { stroke: #d00; }                       /* '-' wire whose ends don't line up */
+  .dot   { fill: #000; }
+  .port  { fill: #000; }
+  .gate  { fill: #fff; stroke: #000; stroke-width: 2; }
+  .sym   { fill: #000; font: 22px Helvetica, Arial, sans-serif; text-anchor: middle; }
+  .label { font: bold 13px Helvetica, Arial, sans-serif; }
+  .in    { fill: #000; text-anchor: start; }
+  .out   { fill: #8a1c1c; text-anchor: middle; }
+</style>
+  <g
+     class="layer wires"
+     id="g47">
+    <path
+       class="wire"
+       d="M70,98 L70,126"
+       id="path1" />
+    <path
+       class="wire"
+       d="M70,126 L182,126 L182,140"
+       id="path2" />
+    <path
+       class="wire"
+       d="M70,126 L42,126 L42,140"
+       id="path3" />
+    <path
+       class="wire"
+       d="M70,126 L70,140"
+       id="path4" />
+    <path
+       class="wire"
+       d="M112,98 L112,140"
+       id="path5" />
+    <path
+       class="wire"
+       d="M252,98 L252,112"
+       id="path6" />
+    <path
+       class="wire"
+       d="M210,112 L210,140"
+       id="path7" />
+    <path
+       class="wire"
+       d="M252,112 L210,112"
+       id="path8" />
+    <path
+       class="wire"
+       d="M280,112 L420,112 L420,140"
+       id="path9" />
+    <path
+       class="wire"
+       d="M210,112 L140,112 L140,140"
+       id="path10" />
+    <path
+       class="wire"
+       d="M252,112 L280,112"
+       id="path11" />
+    <path
+       class="wire"
+       d="M252,112 L252,140"
+       id="path12" />
+    <path
+       class="wire"
+       d="M280,112 L280,140"
+       id="path13" />
+    <path
+       class="wire"
+       d="M322,98 L322,126"
+       id="path14" />
+    <path
+       class="wire"
+       d="M322,126 L392,126 L392,140"
+       id="path15" />
+    <path
+       class="wire"
+       d="M322,126 L322,266 L336,266 L336,280"
+       id="path16" />
+    <path
+       class="wire"
+       d="M448,98 L448,266"
+       id="path17" />
+    <path
+       class="wire"
+       d="M448,266 L462,266 L462,280"
+       id="path18" />
+    <path
+       class="wire"
+       d="M448,266 L434,266 L434,350"
+       id="path19" />
+    <path
+       class="wire"
+       d="M490,98 L490,280"
+       id="path20" />
+    <path
+       class="wire"
+       d="M462,98 L462,112"
+       id="path21" />
+    <path
+       class="wire"
+       d="M462,112 L518,112 L518,140"
+       id="path22" />
+    <path
+       class="wire"
+       d="M462,112 L462,196 L378,196 L378,210"
+       id="path23" />
+    <path
+       class="wire"
+       d="M574,98 L574,112"
+       id="path24" />
+    <path
+       class="wire"
+       d="M574,112 L546,112 L546,140"
+       id="path25" />
+    <path
+       class="wire"
+       d="M574,112 L574,336"
+       id="path26" />
+    <path
+       class="wire"
+       d="M574,336 L504,336 L504,350"
+       id="path27" />
+    <path
+       class="wire"
+       d="M574,336 L574,350"
+       id="path28" />
+    <path
+       class="wire"
+       d="M196,182 L196,196"
+       id="path29" />
+    <path
+       class="wire"
+       d="M196,196 L350,196 L350,210"
+       id="path30" />
+    <path
+       class="wire"
+       d="M406,182 L406,350"
+       id="path31" />
+    <path
+       class="wire"
+       d="M476,322 L476,350"
+       id="path32" />
+    <path
+       class="wire"
+       d="M532,182 L532,196 L546,196 L546,350"
+       id="path33" />
+    <path
+       class="wire"
+       d="M364,252 L364,280"
+       id="path34" />
+    <path
+       class="wire"
+       d="M308,98 L308,336 L322,336 L322,350"
+       id="path35" />
+    <path
+       class="wire"
+       d="M350,322 L350,350"
+       id="path36" />
+    <path
+       class="wire"
+       d="M336,392 L336,420"
+       id="path37" />
+    <path
+       class="wire"
+       d="M490,392 L490,406"
+       id="path38" />
+    <path
+       class="wire"
+       d="M490,406 L364,406 L364,420"
+       id="path39" />
+    <path
+       class="wire"
+       d="M56,182 L56,476"
+       id="path40" />
+    <path
+       class="wire"
+       d="M126,182 L126,476"
+       id="path41" />
+    <path
+       class="wire"
+       d="M196,182 L196,476"
+       id="path42" />
+    <path
+       class="wire"
+       d="M266,182 L266,476"
+       id="path43" />
+    <path
+       class="wire"
+       d="M420,392 L420,476"
+       id="path44" />
+    <path
+       class="wire"
+       d="M490,392 L490,476"
+       id="path45" />
+    <path
+       class="wire"
+       d="M560,392 L560,476"
+       id="path46" />
+    <path
+       class="wire"
+       d="M350,462 L350,476"
+       id="path47" />
+  </g>
+  <g
+     class="layer junctions"
+     id="g57">
+    <circle
+       class="dot"
+       cx="70"
+       cy="126"
+       r="4"
+       id="circle47" />
+    <circle
+       class="dot"
+       cx="210"
+       cy="112"
+       r="4"
+       id="circle48" />
+    <circle
+       class="dot"
+       cx="252"
+       cy="112"
+       r="4"
+       id="circle49" />
+    <circle
+       class="dot"
+       cx="280"
+       cy="112"
+       r="4"
+       id="circle50" />
+    <circle
+       class="dot"
+       cx="322"
+       cy="126"
+       r="4"
+       id="circle51" />
+    <circle
+       class="dot"
+       cx="448"
+       cy="266"
+       r="4"
+       id="circle52" />
+    <circle
+       class="dot"
+       cx="462"
+       cy="112"
+       r="4"
+       id="circle53" />
+    <circle
+       class="dot"
+       cx="574"
+       cy="112"
+       r="4"
+       id="circle54" />
+    <circle
+       class="dot"
+       cx="574"
+       cy="336"
+       r="4"
+       id="circle55" />
+    <circle
+       class="dot"
+       cx="196"
+       cy="196"
+       r="4"
+       id="circle56" />
+    <circle
+       class="dot"
+       cx="490"
+       cy="406"
+       r="4"
+       id="circle57" />
+  </g>
+  <g
+     class="layer gates"
+     id="g70">
+    <rect
+       class="gate"
+       x="28"
+       y="140"
+       width="56"
+       height="42"
+       rx="4"
+       id="rect57" />
+    <text
+       class="sym"
+       x="56"
+       y="169"
+       id="text57">×</text>
+    <rect
+       class="gate"
+       x="98"
+       y="140"
+       width="56"
+       height="42"
+       rx="4"
+       id="rect58" />
+    <text
+       class="sym"
+       x="126"
+       y="169"
+       id="text58">+</text>
+    <rect
+       class="gate"
+       x="168"
+       y="140"
+       width="56"
+       height="42"
+       rx="4"
+       id="rect59" />
+    <text
+       class="sym"
+       x="196"
+       y="169"
+       id="text59">×</text>
+    <rect
+       class="gate"
+       x="238"
+       y="140"
+       width="56"
+       height="42"
+       rx="4"
+       id="rect60" />
+    <text
+       class="sym"
+       x="266"
+       y="169"
+       id="text60">^</text>
+    <rect
+       class="gate"
+       x="378"
+       y="140"
+       width="56"
+       height="42"
+       rx="4"
+       id="rect61" />
+    <text
+       class="sym"
+       x="406"
+       y="169"
+       id="text61">÷</text>
+    <rect
+       class="gate"
+       x="448"
+       y="280"
+       width="56"
+       height="42"
+       rx="4"
+       id="rect62" />
+    <text
+       class="sym"
+       x="476"
+       y="309"
+       id="text62">×</text>
+    <rect
+       class="gate"
+       x="504"
+       y="140"
+       width="56"
+       height="42"
+       rx="4"
+       id="rect63" />
+    <text
+       class="sym"
+       x="532"
+       y="169"
+       id="text63">−</text>
+    <rect
+       class="gate"
+       x="336"
+       y="210"
+       width="56"
+       height="42"
+       rx="4"
+       id="rect64" />
+    <text
+       class="sym"
+       x="364"
+       y="239"
+       id="text64">×</text>
+    <rect
+       class="gate"
+       x="392"
+       y="350"
+       width="56"
+       height="42"
+       rx="4"
+       id="rect65" />
+    <text
+       class="sym"
+       x="420"
+       y="379"
+       id="text65">+</text>
+    <rect
+       class="gate"
+       x="462"
+       y="350"
+       width="56"
+       height="42"
+       rx="4"
+       id="rect66" />
+    <text
+       class="sym"
+       x="490"
+       y="379"
+       id="text66">−</text>
+    <rect
+       class="gate"
+       x="532"
+       y="350"
+       width="56"
+       height="42"
+       rx="4"
+       id="rect67" />
+    <text
+       class="sym"
+       x="560"
+       y="379"
+       id="text67">−</text>
+    <rect
+       class="gate"
+       x="322"
+       y="280"
+       width="56"
+       height="42"
+       rx="4"
+       id="rect68" />
+    <text
+       class="sym"
+       x="350"
+       y="309"
+       id="text68">+</text>
+    <rect
+       class="gate"
+       x="308"
+       y="350"
+       width="56"
+       height="42"
+       rx="4"
+       id="rect69" />
+    <text
+       class="sym"
+       x="336"
+       y="379"
+       id="text69">×</text>
+    <rect
+       class="gate"
+       x="322"
+       y="420"
+       width="56"
+       height="42"
+       rx="4"
+       id="rect70" />
+    <text
+       class="sym"
+       x="350"
+       y="449"
+       id="text70">+</text>
+  </g>
+  <g
+     class="layer terminals"
+     id="g86">
+    <circle
+       class="port"
+       cx="70"
+       cy="98"
+       r="4"
+       id="circle70" />
+    <circle
+       class="port"
+       cx="112"
+       cy="98"
+       r="4"
+       id="circle71" />
+    <circle
+       class="port"
+       cx="252"
+       cy="98"
+       r="4"
+       id="circle72" />
+    <circle
+       class="port"
+       cx="308"
+       cy="98"
+       r="4"
+       id="circle73" />
+    <circle
+       class="port"
+       cx="322"
+       cy="98"
+       r="4"
+       id="circle74" />
+    <circle
+       class="port"
+       cx="448"
+       cy="98"
+       r="4"
+       id="circle75" />
+    <circle
+       class="port"
+       cx="462"
+       cy="98"
+       r="4"
+       id="circle76" />
+    <circle
+       class="port"
+       cx="490"
+       cy="98"
+       r="4"
+       id="circle77" />
+    <circle
+       class="port"
+       cx="574"
+       cy="98"
+       r="4"
+       id="circle78" />
+    <circle
+       class="port"
+       cx="56"
+       cy="476"
+       r="4"
+       id="circle79" />
+    <circle
+       class="port"
+       cx="126"
+       cy="476"
+       r="4"
+       id="circle80" />
+    <circle
+       class="port"
+       cx="196"
+       cy="476"
+       r="4"
+       id="circle81" />
+    <circle
+       class="port"
+       cx="266"
+       cy="476"
+       r="4"
+       id="circle82" />
+    <circle
+       class="port"
+       cx="420"
+       cy="476"
+       r="4"
+       id="circle83" />
+    <circle
+       class="port"
+       cx="490"
+       cy="476"
+       r="4"
+       id="circle84" />
+    <circle
+       class="port"
+       cx="560"
+       cy="476"
+       r="4"
+       id="circle85" />
+    <circle
+       class="port"
+       cx="350"
+       cy="476"
+       r="4"
+       id="circle86" />
+  </g>
+  <text
+     xml:space="preserve"
+     style="writing-mode:lr-tb;direction:ltr;fill:#ffffff;stroke:#000000;stroke-width:0.767244"
+     x="61.412727"
+     y="91.143219"
+     id="text87"><tspan
+       sodipodi:role="line"
+       id="tspan87"
+       x="61.412727"
+       y="91.143219">TO</tspan></text>
+  <text
+     xml:space="preserve"
+     style="writing-mode:lr-tb;direction:ltr;fill:#ffffff;stroke:#000000;stroke-width:0.767244"
+     x="87.754944"
+     y="91.391228"
+     id="text88"><tspan
+       sodipodi:role="line"
+       id="tspan88"
+       x="87.754944"
+       y="91.391228">SOCIALIST</tspan></text>
+  <text
+     xml:space="preserve"
+     style="writing-mode:lr-tb;direction:ltr;fill:#ffffff;stroke:#000000;stroke-width:0.767244"
+     x="250.07996"
+     y="90.679283"
+     id="text89"><tspan
+       sodipodi:role="line"
+       id="tspan89"
+       x="250.07996"
+       y="90.679283">I</tspan></text>
+  <text
+     xml:space="preserve"
+     style="writing-mode:lr-tb;direction:ltr;fill:#ffffff;stroke:#000000;stroke-width:0.767244"
+     x="263.96301"
+     y="91.035255"
+     id="text90"><tspan
+       sodipodi:role="line"
+       id="tspan90"
+       x="263.96301"
+       y="91.035255">SOLICITATION</tspan></text>
+  <text
+     xml:space="preserve"
+     style="writing-mode:lr-tb;direction:ltr;fill:#ffffff;stroke:#000000;stroke-width:0.767244"
+     x="331.24249"
+     y="104.91831"
+     id="text91"><tspan
+       sodipodi:role="line"
+       id="tspan91"
+       x="331.24249"
+       y="104.91831">SECT</tspan></text>
+  <text
+     xml:space="preserve"
+     style="writing-mode:lr-tb;direction:ltr;fill:#ffffff;stroke:#000000;stroke-width:0.767244"
+     x="414.18488"
+     y="102.0705"
+     id="text92"><tspan
+       sodipodi:role="line"
+       id="tspan92"
+       x="414.18488"
+       y="102.0705">CAST</tspan></text>
+  <text
+     xml:space="preserve"
+     style="writing-mode:lr-tb;direction:ltr;fill:#ffffff;stroke:#000000;stroke-width:0.767244"
+     x="448.35858"
+     y="91.391228"
+     id="text93"><tspan
+       sodipodi:role="line"
+       id="tspan93"
+       x="448.35858"
+       y="91.391228">LOAN</tspan></text>
+  <text
+     xml:space="preserve"
+     style="writing-mode:lr-tb;direction:ltr;fill:#ffffff;stroke:#000000;stroke-width:0.767244"
+     x="494.27945"
+     y="101.00258"
+     id="text94"><tspan
+       sodipodi:role="line"
+       id="tspan94"
+       x="494.27945"
+       y="101.00258">AIR</tspan></text>
+  <text
+     xml:space="preserve"
+     style="writing-mode:lr-tb;direction:ltr;fill:#ffffff;stroke:#000000;stroke-width:0.767244"
+     x="557.64319"
+     y="90.323303"
+     id="text95"><tspan
+       sodipodi:role="line"
+       id="tspan95"
+       x="557.64319"
+       y="90.323303">NOIR</tspan></text>
+  <text
+     xml:space="preserve"
+     style="writing-mode:lr-tb;direction:ltr;fill:#ffffff;stroke:#000000;stroke-width:0.767244"
+     x="43.257954"
+     y="491.15222"
+     id="text96"><tspan
+       sodipodi:role="line"
+       id="tspan96"
+       x="43.257954"
+       y="491.15222">SILO</tspan></text>
+  <text
+     xml:space="preserve"
+     style="writing-mode:lr-tb;direction:ltr;fill:#ffffff;stroke:#000000;stroke-width:0.767244"
+     x="97.722267"
+     y="491.15219"
+     id="text97"><tspan
+       sodipodi:role="line"
+       id="tspan97"
+       x="97.722267"
+       y="491.15219">SOCIALITE</tspan></text>
+  <text
+     xml:space="preserve"
+     style="writing-mode:lr-tb;direction:ltr;fill:#ffffff;stroke:#000000;stroke-width:0.767244"
+     x="185.29234"
+     y="491.86414"
+     id="text98"><tspan
+       sodipodi:role="line"
+       id="tspan98"
+       x="185.29234"
+       y="491.86414">ACT</tspan></text>
+  <text
+     xml:space="preserve"
+     style="writing-mode:lr-tb;direction:ltr;fill:#ffffff;stroke:#000000;stroke-width:0.767244"
+     x="258.62338"
+     y="490.7962"
+     id="text99"><tspan
+       sodipodi:role="line"
+       id="tspan99"
+       x="258.62338"
+       y="490.7962">AS</tspan></text>
+  <text
+     xml:space="preserve"
+     style="writing-mode:lr-tb;direction:ltr;fill:#ffffff;stroke:#000000;stroke-width:0.767244"
+     x="347.26141"
+     y="491.15219"
+     id="text100"><tspan
+       sodipodi:role="line"
+       id="tspan100"
+       x="347.26141"
+       y="491.15219">?</tspan></text>
+  <text
+     xml:space="preserve"
+     style="writing-mode:lr-tb;direction:ltr;fill:#ffffff;stroke:#000000;stroke-width:0.767244"
+     x="403.1496"
+     y="491.15219"
+     id="text101"><tspan
+       sodipodi:role="line"
+       id="tspan101"
+       x="403.1496"
+       y="491.15219">SOON</tspan></text>
+  <text
+     xml:space="preserve"
+     style="writing-mode:lr-tb;direction:ltr;fill:#ffffff;stroke:#000000;stroke-width:0.767244"
+     x="468.64917"
+     y="490.7962"
+     id="text102"><tspan
+       sodipodi:role="line"
+       id="tspan102"
+       x="468.64917"
+       y="490.7962">EARLIER</tspan></text>
+  <text
+     xml:space="preserve"
+     style="writing-mode:lr-tb;direction:ltr;fill:#ffffff;stroke:#000000;stroke-width:0.767244"
+     x="547.67584"
+     y="490.79623"
+     id="text103"><tspan
+       sodipodi:role="line"
+       id="tspan103"
+       x="547.67584"
+       y="490.79623">ION</tspan></text>
+</svg>

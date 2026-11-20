@@ -1,0 +1,1161 @@
+{
+  "displayName": "凑词爆猜",
+  "rounds": {
+    "lam": {
+      "roundId": "lam",
+      "displayName": "Lam",
+      "slug": "lam",
+      "order": 2
+    },
+    "camille": {
+      "roundId": "camille",
+      "displayName": "Camille",
+      "slug": "camille",
+      "order": 0
+    },
+    "taylor": {
+      "roundId": "taylor",
+      "displayName": "Taylor",
+      "slug": "taylor",
+      "order": 3
+    },
+    "dj": {
+      "roundId": "dj",
+      "displayName": "DJ",
+      "slug": "dj",
+      "order": 1
+    }
+  },
+  "puzzles": {
+    "86997398": {
+      "type": "puzzle",
+      "puzName": "86997398",
+      "slug": "inspiration",
+      "displayName": "Inspiration",
+      "hasAnswer": true,
+      "roundIds": [
+        "lam"
+      ],
+      "answer": "FISSION",
+      "isNew": true,
+      "unlockTime": 1791808527525,
+      "solveTime": 1791821379286
+    },
+    "87731352": {
+      "type": "puzzle",
+      "puzName": "87731352",
+      "slug": "alternates",
+      "displayName": "Alternates",
+      "hasAnswer": true,
+      "roundIds": [
+        "lam"
+      ],
+      "isNew": true,
+      "unlockTime": 1792374165706
+    },
+    "8ff41b05": {
+      "type": "story",
+      "puzName": "8ff41b05",
+      "slug": "8d52523f",
+      "displayName": "",
+      "roundIds": [
+        "lam"
+      ],
+      "isNew": true,
+      "unlockTime": 1791570488950,
+      "solveTime": 1791593850633,
+      "untitledPuzzleIndex": 0,
+      "noCannedHints": true,
+      "prologue": "lam"
+    },
+    "d541ab84": {
+      "type": "story",
+      "puzName": "d541ab84",
+      "slug": "4dde37dd",
+      "displayName": "",
+      "roundIds": [
+        "camille"
+      ],
+      "isNew": true,
+      "unlockTime": 1791570488951,
+      "solveTime": 1791593850649,
+      "untitledPuzzleIndex": 1,
+      "noCannedHints": true,
+      "prologue": "camille"
+    },
+    "ae2afada": {
+      "type": "story",
+      "puzName": "ae2afada",
+      "slug": "48012cfd",
+      "displayName": "",
+      "roundIds": [
+        "taylor"
+      ],
+      "isNew": true,
+      "unlockTime": 1791570488952,
+      "solveTime": 1791593915899,
+      "untitledPuzzleIndex": 2,
+      "noCannedHints": true,
+      "prologue": "taylor"
+    },
+    "49a61c92": {
+      "type": "puzzle",
+      "puzName": "49a61c92",
+      "slug": "6-7",
+      "displayName": "6 7",
+      "hasAnswer": true,
+      "roundIds": [
+        "camille"
+      ],
+      "answer": "ZEUS",
+      "isNew": true,
+      "unlockTime": 1791593915900,
+      "solveTime": 1791602424391,
+      "noCannedHints": true
+    },
+    "7f65289d": {
+      "type": "puzzle",
+      "puzName": "7f65289d",
+      "slug": "soup-of-the-day",
+      "displayName": "Soup of the Day",
+      "hasAnswer": true,
+      "roundIds": [
+        "lam"
+      ],
+      "answer": "TAP WATER",
+      "isNew": true,
+      "unlockTime": 1791593915901,
+      "solveTime": 1791609718417
+    },
+    "d1166cbd": {
+      "type": "puzzle",
+      "puzName": "d1166cbd",
+      "slug": "enigmatic-travelers",
+      "displayName": "Enigmatic Travelers",
+      "hasAnswer": true,
+      "roundIds": [
+        "taylor"
+      ],
+      "answer": "STARFARING",
+      "isNew": true,
+      "unlockTime": 1791593915902,
+      "solveTime": 1791635713616
+    },
+    "a0610e6a": {
+      "type": "story",
+      "puzName": "a0610e6a",
+      "slug": "bd4d229f",
+      "displayName": "",
+      "roundIds": [
+        "camille",
+        "taylor"
+      ],
+      "isNew": true,
+      "unlockTime": 1791602424392,
+      "solveTime": 1791603046345,
+      "untitledPuzzleIndex": 3,
+      "noCannedHints": true
+    },
+    "00a73507": {
+      "type": "puzzle",
+      "puzName": "00a73507",
+      "slug": "make-your-own-cheryls-birthday",
+      "displayName": "Make Your Own Cheryl’s Birthday",
+      "hasAnswer": true,
+      "roundIds": [
+        "taylor"
+      ],
+      "answer": "FLORAL TEA",
+      "isNew": true,
+      "unlockTime": 1791602424393,
+      "solveTime": 1791620891497
+    },
+    "c0c88e7d": {
+      "type": "puzzle",
+      "puzName": "c0c88e7d",
+      "slug": "normal-quiz",
+      "displayName": "Normal Quiz",
+      "hasAnswer": true,
+      "roundIds": [
+        "camille"
+      ],
+      "answer": "OBJECTS",
+      "isNew": true,
+      "unlockTime": 1791602424394,
+      "solveTime": 1791615668171
+    },
+    "a08b9cca": {
+      "type": "story",
+      "puzName": "a08b9cca",
+      "slug": "153ed852",
+      "displayName": "",
+      "roundIds": [
+        "lam",
+        "taylor"
+      ],
+      "isNew": true,
+      "unlockTime": 1791609718418,
+      "solveTime": 1791609957575,
+      "untitledPuzzleIndex": 4,
+      "noCannedHints": true
+    },
+    "e567c0b8": {
+      "type": "puzzle",
+      "puzName": "e567c0b8",
+      "slug": "stacked",
+      "displayName": "Stacked",
+      "hasAnswer": true,
+      "roundIds": [
+        "lam"
+      ],
+      "answer": "FRESHNESS",
+      "isNew": true,
+      "unlockTime": 1791609957576,
+      "solveTime": 1791724305074
+    },
+    "a72b90b2": {
+      "type": "story",
+      "puzName": "a72b90b2",
+      "slug": "66e66d0e",
+      "displayName": "",
+      "roundIds": [
+        "dj",
+        "taylor"
+      ],
+      "isNew": true,
+      "unlockTime": 1791615668172,
+      "solveTime": 1791615805585,
+      "untitledPuzzleIndex": 5,
+      "noCannedHints": true
+    },
+    "586bcc07": {
+      "type": "puzzle",
+      "puzName": "586bcc07",
+      "slug": "world-connections",
+      "displayName": "World Connections",
+      "hasAnswer": true,
+      "roundIds": [
+        "dj"
+      ],
+      "answer": "SPIGOT",
+      "isNew": true,
+      "unlockTime": 1791615805586,
+      "solveTime": 1791701886955
+    },
+    "8d32de1d": {
+      "type": "puzzle",
+      "puzName": "8d32de1d",
+      "slug": "wordtris",
+      "displayName": "Wordtris",
+      "hasAnswer": true,
+      "roundIds": [
+        "dj"
+      ],
+      "answer": "JILTS",
+      "isNew": true,
+      "unlockTime": 1791620891498,
+      "solveTime": 1791648116700
+    },
+    "ab820831": {
+      "type": "puzzle",
+      "puzName": "ab820831",
+      "slug": "genetic-code",
+      "displayName": "Genetic Code",
+      "hasAnswer": true,
+      "roundIds": [
+        "taylor"
+      ],
+      "answer": "MECHS",
+      "isNew": true,
+      "unlockTime": 1791635713617,
+      "solveTime": 1791995125385
+    },
+    "0bd5223d": {
+      "type": "story",
+      "puzName": "0bd5223d",
+      "slug": "5af60d1e",
+      "displayName": "",
+      "roundIds": [
+        "camille",
+        "dj"
+      ],
+      "isNew": true,
+      "unlockTime": 1791648116701,
+      "solveTime": 1791648284874,
+      "untitledPuzzleIndex": 6,
+      "noCannedHints": true
+    },
+    "a7947920": {
+      "type": "puzzle",
+      "puzName": "a7947920",
+      "slug": "strays",
+      "displayName": "Strays",
+      "hasAnswer": true,
+      "roundIds": [
+        "camille"
+      ],
+      "answer": "UNREPROACHFUL",
+      "isNew": true,
+      "unlockTime": 1791648284875,
+      "solveTime": 1791734912973
+    },
+    "7fe42803": {
+      "type": "puzzle",
+      "puzName": "7fe42803",
+      "slug": "sketches",
+      "displayName": "Sketches",
+      "hasAnswer": true,
+      "roundIds": [
+        "dj"
+      ],
+      "answer": "JIMMY FALLON",
+      "isNew": true,
+      "unlockTime": 1791701886956,
+      "solveTime": 1791815913853,
+      "noCannedHints": true
+    },
+    "91d4b6c9": {
+      "type": "story",
+      "puzName": "91d4b6c9",
+      "slug": "6cf9c0dc",
+      "displayName": "",
+      "roundIds": [
+        "lam",
+        "taylor"
+      ],
+      "isNew": true,
+      "unlockTime": 1791724305075,
+      "solveTime": 1791724421357,
+      "untitledPuzzleIndex": 7,
+      "noCannedHints": true
+    },
+    "835f7685": {
+      "type": "puzzle",
+      "puzName": "835f7685",
+      "slug": "grid-adventure",
+      "displayName": "Grid Adventure",
+      "hasAnswer": true,
+      "roundIds": [
+        "lam"
+      ],
+      "answer": "WRECK",
+      "isNew": true,
+      "unlockTime": 1791724421358,
+      "solveTime": 1792340300949
+    },
+    "87ec836e": {
+      "type": "puzzle",
+      "puzName": "87ec836e",
+      "slug": "sing-beans",
+      "displayName": "Sing, Beans!",
+      "hasAnswer": true,
+      "roundIds": [
+        "camille"
+      ],
+      "answer": "DUBSTEP",
+      "isNew": true,
+      "unlockTime": 1791734912974,
+      "solveTime": 1791778347070,
+      "noCannedHints": true
+    },
+    "6722515a": {
+      "type": "puzzle",
+      "puzName": "6722515a",
+      "slug": "arithmetic-circuit",
+      "displayName": "Arithmetic Circuit",
+      "hasAnswer": true,
+      "roundIds": [
+        "taylor"
+      ],
+      "answer": "ELECTRONICS RETAILER",
+      "isNew": true,
+      "unlockTime": 1791778347071,
+      "solveTime": 1791808472584
+    },
+    "8aa2ba27": {
+      "type": "story",
+      "puzName": "8aa2ba27",
+      "slug": "583e775d",
+      "displayName": "",
+      "roundIds": [
+        "dj",
+        "lam"
+      ],
+      "isNew": true,
+      "unlockTime": 1791808472585,
+      "solveTime": 1791808527524,
+      "untitledPuzzleIndex": 8,
+      "noCannedHints": true
+    },
+    "c711639c": {
+      "type": "puzzle",
+      "puzName": "c711639c",
+      "slug": "rudimentary",
+      "displayName": "Rudimentary",
+      "hasAnswer": true,
+      "roundIds": [
+        "dj"
+      ],
+      "answer": "PINK FLOYD",
+      "isNew": true,
+      "unlockTime": 1791815913854,
+      "solveTime": 1792164513595
+    },
+    "5e3cc87f": {
+      "type": "story",
+      "puzName": "5e3cc87f",
+      "slug": "fd9e2820",
+      "displayName": "",
+      "roundIds": [
+        "camille",
+        "dj"
+      ],
+      "isNew": true,
+      "unlockTime": 1791821379287,
+      "solveTime": 1791821676658,
+      "untitledPuzzleIndex": 9,
+      "noCannedHints": true
+    },
+    "472bb0e8": {
+      "type": "puzzle",
+      "puzName": "472bb0e8",
+      "slug": "vowels",
+      "displayName": "Vowels",
+      "hasAnswer": true,
+      "roundIds": [
+        "lam"
+      ],
+      "answer": "FLYTRAP",
+      "isNew": true,
+      "unlockTime": 1791821379288,
+      "solveTime": 1792393736977
+    },
+    "61f3cd15": {
+      "type": "puzzle",
+      "puzName": "61f3cd15",
+      "slug": "halves",
+      "displayName": "Halves",
+      "hasAnswer": true,
+      "roundIds": [
+        "camille"
+      ],
+      "answer": "JOHN ROLFE",
+      "isNew": true,
+      "unlockTime": 1791821676659,
+      "solveTime": 1791941321460
+    },
+    "a1dda313": {
+      "type": "puzzle",
+      "puzName": "a1dda313",
+      "slug": "new-game-plus",
+      "displayName": "New Game Plus",
+      "hasAnswer": true,
+      "roundIds": [
+        "taylor"
+      ],
+      "answer": "ABS",
+      "isNew": true,
+      "unlockTime": 1791941321461,
+      "solveTime": 1792374787750
+    },
+    "4991889c": {
+      "type": "story",
+      "puzName": "4991889c",
+      "slug": "28b9bae6",
+      "displayName": "",
+      "roundIds": [
+        "camille",
+        "dj"
+      ],
+      "isNew": true,
+      "unlockTime": 1791995125386,
+      "solveTime": 1791995563859,
+      "untitledPuzzleIndex": 10,
+      "noCannedHints": true
+    },
+    "90fe79d6": {
+      "type": "puzzle",
+      "puzName": "90fe79d6",
+      "slug": "fuzzy-logic",
+      "displayName": "Fuzzy Logic",
+      "hasAnswer": true,
+      "roundIds": [
+        "dj"
+      ],
+      "answer": "BLUE BLOOD",
+      "isNew": true,
+      "unlockTime": 1791995125387,
+      "solveTime": 1792081609341
+    },
+    "e0277e3e": {
+      "type": "puzzle",
+      "puzName": "e0277e3e",
+      "slug": "fruit-forest",
+      "displayName": "Fruit Forest",
+      "hasAnswer": true,
+      "roundIds": [
+        "taylor"
+      ],
+      "answer": "BOTANY",
+      "isNew": true,
+      "unlockTime": 1791995125388,
+      "solveTime": 1792079855552
+    },
+    "56808af5": {
+      "type": "puzzle",
+      "puzName": "56808af5",
+      "slug": "personality-conflict",
+      "displayName": "Personality Conflict",
+      "hasAnswer": true,
+      "roundIds": [
+        "camille",
+        "dj"
+      ],
+      "answer": "MAGNET SCHOOL",
+      "isNew": true,
+      "unlockTime": 1791995563860,
+      "solveTime": 1792170882176,
+      "isMeta": true
+    },
+    "718d88a1": {
+      "type": "story",
+      "puzName": "718d88a1",
+      "slug": "188a7e66",
+      "displayName": "",
+      "roundIds": [
+        "dj",
+        "lam"
+      ],
+      "isNew": true,
+      "unlockTime": 1792079855553,
+      "solveTime": 1792081666644,
+      "untitledPuzzleIndex": 11,
+      "noCannedHints": true
+    },
+    "80f4db92": {
+      "type": "story",
+      "puzName": "80f4db92",
+      "slug": "c373a581",
+      "displayName": "",
+      "roundIds": [
+        "camille",
+        "lam"
+      ],
+      "isNew": true,
+      "unlockTime": 1792081609342,
+      "solveTime": 1792152875008,
+      "untitledPuzzleIndex": 12,
+      "noCannedHints": true
+    },
+    "d7ec989f": {
+      "type": "puzzle",
+      "puzName": "d7ec989f",
+      "slug": "arrows",
+      "displayName": "(arrows)",
+      "hasAnswer": true,
+      "roundIds": [
+        "lam"
+      ],
+      "answer": "VERTEBRATE",
+      "isNew": true,
+      "unlockTime": 1792081609343,
+      "solveTime": 1792305384857
+    },
+    "d7bb773d": {
+      "type": "puzzle",
+      "puzName": "d7bb773d",
+      "slug": "broken-expectations",
+      "displayName": "Broken Expectations",
+      "hasAnswer": true,
+      "roundIds": [
+        "dj"
+      ],
+      "answer": "SATIS",
+      "isNew": true,
+      "unlockTime": 1792081666645,
+      "solveTime": 1792126148819
+    },
+    "28ee5da9": {
+      "type": "puzzle",
+      "puzName": "28ee5da9",
+      "slug": "multi-hyphenates",
+      "displayName": "Multi-Hyphenates",
+      "hasAnswer": true,
+      "roundIds": [
+        "taylor"
+      ],
+      "answer": "RULE",
+      "isNew": true,
+      "unlockTime": 1792126148820,
+      "solveTime": 1792155990940
+    },
+    "96fdff58": {
+      "type": "puzzle",
+      "puzName": "96fdff58",
+      "slug": "duality-ii",
+      "displayName": "Duality II",
+      "hasAnswer": true,
+      "roundIds": [
+        "camille"
+      ],
+      "answer": "ECLIPSE",
+      "isNew": true,
+      "unlockTime": 1792152875009,
+      "solveTime": 1792431471898
+    },
+    "19b2f920": {
+      "type": "puzzle",
+      "puzName": "19b2f920",
+      "slug": "revisions",
+      "displayName": "Revisions",
+      "hasAnswer": true,
+      "roundIds": [
+        "lam"
+      ],
+      "answer": "POSTPONED",
+      "isNew": true,
+      "unlockTime": 1792155990941,
+      "solveTime": 1792208991592
+    },
+    "5eff7e75": {
+      "type": "story",
+      "puzName": "5eff7e75",
+      "slug": "46b86508",
+      "displayName": "",
+      "roundIds": [
+        "lam",
+        "taylor"
+      ],
+      "isNew": true,
+      "unlockTime": 1792164513596,
+      "solveTime": 1792164662414,
+      "untitledPuzzleIndex": 13,
+      "noCannedHints": true
+    },
+    "d3f15506": {
+      "type": "puzzle",
+      "puzName": "d3f15506",
+      "slug": "cryptic-codewords",
+      "displayName": "Cryptic Codewords",
+      "hasAnswer": true,
+      "roundIds": [
+        "camille"
+      ],
+      "answer": "STARCHED",
+      "isNew": true,
+      "unlockTime": 1792164513597,
+      "solveTime": 1792374165703
+    },
+    "eef6128e": {
+      "type": "puzzle",
+      "puzName": "eef6128e",
+      "slug": "amorous-appointments",
+      "displayName": "Amorous Appointments",
+      "hasAnswer": true,
+      "roundIds": [
+        "lam",
+        "taylor"
+      ],
+      "answer": "LIFT IN TRYST RATE",
+      "isNew": true,
+      "unlockTime": 1792164662415,
+      "solveTime": 1792308635113,
+      "isMeta": true
+    },
+    "69b95018": {
+      "type": "story",
+      "puzName": "69b95018",
+      "slug": "56ce2f74",
+      "displayName": "",
+      "roundIds": [
+        "camille",
+        "dj"
+      ],
+      "isNew": true,
+      "unlockTime": 1792170882177,
+      "solveTime": 1792170958775,
+      "untitledPuzzleIndex": 14,
+      "noCannedHints": true
+    },
+    "a8cccef9": {
+      "type": "puzzle",
+      "puzName": "a8cccef9",
+      "slug": "personal-flying-monkeys",
+      "displayName": "Personal Flying Monkeys",
+      "hasAnswer": true,
+      "roundIds": [
+        "dj"
+      ],
+      "answer": "WHITE GLUE",
+      "isNew": true,
+      "unlockTime": 1792208991593,
+      "solveTime": 1792246208835
+    },
+    "82886fc0": {
+      "type": "story",
+      "puzName": "82886fc0",
+      "slug": "67a6aa5f",
+      "displayName": "",
+      "roundIds": [
+        "camille",
+        "taylor"
+      ],
+      "isNew": true,
+      "unlockTime": 1792246208836,
+      "solveTime": 1792246395841,
+      "untitledPuzzleIndex": 15,
+      "noCannedHints": true
+    },
+    "41220f3e": {
+      "type": "puzzle",
+      "puzName": "41220f3e",
+      "slug": "realism",
+      "displayName": "Realism",
+      "hasAnswer": true,
+      "roundIds": [
+        "taylor"
+      ],
+      "answer": "MANGER",
+      "isNew": true,
+      "unlockTime": 1792246395842,
+      "solveTime": 1792338352679
+    },
+    "62d5712a": {
+      "type": "puzzle",
+      "puzName": "62d5712a",
+      "slug": "abcd",
+      "displayName": "🔠",
+      "hasAnswer": true,
+      "roundIds": [
+        "camille"
+      ],
+      "answer": "RINGS",
+      "isNew": true,
+      "unlockTime": 1792305384858,
+      "solveTime": 1792318215571
+    },
+    "1f49a4d4": {
+      "type": "story",
+      "puzName": "1f49a4d4",
+      "slug": "dd92410f",
+      "displayName": "",
+      "roundIds": [
+        "lam",
+        "taylor"
+      ],
+      "isNew": true,
+      "unlockTime": 1792308635114,
+      "solveTime": 1792308735801,
+      "untitledPuzzleIndex": 16,
+      "noCannedHints": true
+    },
+    "2ceeaed8": {
+      "type": "story",
+      "puzName": "2ceeaed8",
+      "slug": "e9b5fff1",
+      "displayName": "",
+      "roundIds": [
+        "camille",
+        "lam"
+      ],
+      "isNew": true,
+      "unlockTime": 1792318215572,
+      "solveTime": 1792318270081,
+      "untitledPuzzleIndex": 17,
+      "noCannedHints": true
+    },
+    "dbae87fc": {
+      "type": "puzzle",
+      "puzName": "dbae87fc",
+      "slug": "two-years-later",
+      "displayName": "Two Years Later",
+      "hasAnswer": true,
+      "roundIds": [
+        "lam"
+      ],
+      "isNew": true,
+      "unlockTime": 1792318270082
+    },
+    "7c7e5eab": {
+      "type": "story",
+      "puzName": "7c7e5eab",
+      "slug": "9c13a2ef",
+      "displayName": "",
+      "roundIds": [
+        "dj",
+        "lam"
+      ],
+      "isNew": true,
+      "unlockTime": 1792338352680,
+      "solveTime": 1792338552296,
+      "untitledPuzzleIndex": 18,
+      "noCannedHints": true
+    },
+    "b67e5f69": {
+      "type": "puzzle",
+      "puzName": "b67e5f69",
+      "slug": "connect-the-dots",
+      "displayName": "Connect the Dots",
+      "hasAnswer": true,
+      "roundIds": [
+        "taylor"
+      ],
+      "answer": "WHOLE MILK",
+      "isNew": true,
+      "unlockTime": 1792338352681,
+      "solveTime": 1792430929675
+    },
+    "d033c6a0": {
+      "type": "puzzle",
+      "puzName": "d033c6a0",
+      "slug": "clue-cards",
+      "displayName": "Clue Cards",
+      "hasAnswer": true,
+      "roundIds": [
+        "dj"
+      ],
+      "answer": "TAROT",
+      "isNew": true,
+      "unlockTime": 1792338352682,
+      "solveTime": 1792401594894
+    },
+    "8c720c82": {
+      "type": "puzzle",
+      "puzName": "8c720c82",
+      "slug": "figuration",
+      "displayName": "Figuration",
+      "hasAnswer": true,
+      "roundIds": [
+        "dj",
+        "lam"
+      ],
+      "answer": "CRACK OF DAWN",
+      "isNew": true,
+      "unlockTime": 1792338552297,
+      "solveTime": 1792433545754,
+      "isMeta": true
+    },
+    "c9c2b0c2": {
+      "type": "story",
+      "puzName": "c9c2b0c2",
+      "slug": "b4b40389",
+      "displayName": "",
+      "roundIds": [
+        "dj",
+        "taylor"
+      ],
+      "isNew": true,
+      "unlockTime": 1792340300950,
+      "solveTime": 1792340380511,
+      "untitledPuzzleIndex": 19,
+      "noCannedHints": true
+    },
+    "679430a1": {
+      "type": "puzzle",
+      "puzName": "679430a1",
+      "slug": "scores",
+      "displayName": "Scores",
+      "hasAnswer": true,
+      "roundIds": [
+        "camille"
+      ],
+      "answer": "GRAINY",
+      "isNew": true,
+      "unlockTime": 1792340300951,
+      "solveTime": 1792437797639,
+      "noCannedHints": true
+    },
+    "6a35ac46": {
+      "type": "puzzle",
+      "puzName": "6a35ac46",
+      "slug": "world-search-ii",
+      "displayName": "World Search II",
+      "hasAnswer": true,
+      "roundIds": [
+        "dj"
+      ],
+      "answer": "PINK CADILLAC",
+      "isNew": true,
+      "unlockTime": 1792340380512,
+      "solveTime": 1792433920015,
+      "noCannedHints": true
+    },
+    "9211fa3b": {
+      "type": "story",
+      "puzName": "9211fa3b",
+      "slug": "a67c7c3a",
+      "displayName": "",
+      "roundIds": [
+        "camille",
+        "taylor"
+      ],
+      "isNew": true,
+      "unlockTime": 1792374165704,
+      "solveTime": 1792374196195,
+      "untitledPuzzleIndex": 20,
+      "noCannedHints": true
+    },
+    "731dd621": {
+      "type": "puzzle",
+      "puzName": "731dd621",
+      "slug": "what-kind-of-pictures",
+      "displayName": "What Kind of Pictures?",
+      "hasAnswer": true,
+      "roundIds": [
+        "taylor"
+      ],
+      "isNew": true,
+      "unlockTime": 1792374165705
+    },
+    "6b4799cf": {
+      "type": "puzzle",
+      "puzName": "6b4799cf",
+      "slug": "menu-update",
+      "displayName": "Menu Update",
+      "hasAnswer": true,
+      "roundIds": [
+        "camille",
+        "taylor"
+      ],
+      "answer": "LACTIC TRENDSETTERS",
+      "isNew": true,
+      "unlockTime": 1792374196196,
+      "solveTime": 1792441923032,
+      "isMeta": true
+    },
+    "79ffd322": {
+      "type": "puzzle",
+      "puzName": "79ffd322",
+      "slug": "wavelengths",
+      "displayName": "Wavelengths",
+      "hasAnswer": true,
+      "roundIds": [
+        "lam"
+      ],
+      "answer": "CANDY BAR",
+      "isNew": true,
+      "unlockTime": 1792374787751,
+      "solveTime": 1792401315758
+    },
+    "866c8656": {
+      "type": "story",
+      "puzName": "866c8656",
+      "slug": "e27a9092",
+      "displayName": "",
+      "roundIds": [
+        "dj",
+        "taylor"
+      ],
+      "isNew": true,
+      "unlockTime": 1792393736978,
+      "solveTime": 1792395388162,
+      "untitledPuzzleIndex": 21,
+      "noCannedHints": true
+    },
+    "191a2873": {
+      "type": "puzzle",
+      "puzName": "191a2873",
+      "slug": "ladder",
+      "displayName": "Ladder",
+      "hasAnswer": true,
+      "roundIds": [
+        "camille"
+      ],
+      "isNew": true,
+      "unlockTime": 1792393736979
+    },
+    "7b89ca3d": {
+      "type": "puzzle",
+      "puzName": "7b89ca3d",
+      "slug": "new-york-adventure",
+      "displayName": "New York Adventure",
+      "hasAnswer": true,
+      "roundIds": [
+        "dj"
+      ],
+      "answer": "MOANA",
+      "isNew": true,
+      "unlockTime": 1792393736980,
+      "solveTime": 1792429997207
+    },
+    "e20689a9": {
+      "type": "puzzle",
+      "puzName": "e20689a9",
+      "slug": "heart-to-heart",
+      "displayName": "Heart-to-Heart",
+      "hasAnswer": true,
+      "roundIds": [
+        "dj",
+        "taylor"
+      ],
+      "answer": "CHANGE OF ART",
+      "isNew": true,
+      "unlockTime": 1792395388163,
+      "solveTime": 1792429090073,
+      "isMeta": true
+    },
+    "d17429ff": {
+      "type": "puzzle",
+      "puzName": "d17429ff",
+      "slug": "oops",
+      "displayName": "Oops!",
+      "hasAnswer": true,
+      "roundIds": [
+        "lam"
+      ],
+      "isNew": true,
+      "unlockTime": 1792401315759
+    },
+    "bd7f3145": {
+      "type": "story",
+      "puzName": "bd7f3145",
+      "slug": "d8fd6719",
+      "displayName": "",
+      "roundIds": [
+        "camille",
+        "lam"
+      ],
+      "isNew": true,
+      "unlockTime": 1792401594895,
+      "solveTime": 1792401621841,
+      "untitledPuzzleIndex": 22,
+      "noCannedHints": true
+    },
+    "f0f5f92b": {
+      "type": "puzzle",
+      "puzName": "f0f5f92b",
+      "slug": "chess-puzzles",
+      "displayName": "Chess Puzzles",
+      "hasAnswer": true,
+      "roundIds": [
+        "camille"
+      ],
+      "answer": "ARABIAN",
+      "isNew": true,
+      "unlockTime": 1792401594896,
+      "solveTime": 1792440001596
+    },
+    "c6ca78d1": {
+      "type": "puzzle",
+      "puzName": "c6ca78d1",
+      "slug": "birth-charts",
+      "displayName": "Birth Charts",
+      "hasAnswer": true,
+      "roundIds": [
+        "camille",
+        "lam"
+      ],
+      "answer": "IT’S A SIGN",
+      "isNew": true,
+      "unlockTime": 1792401621842,
+      "solveTime": 1792415410428,
+      "isMeta": true
+    },
+    "2d86d6fb": {
+      "type": "story",
+      "puzName": "2d86d6fb",
+      "slug": "3914e874",
+      "displayName": "",
+      "roundIds": [
+        "camille",
+        "lam"
+      ],
+      "isNew": true,
+      "unlockTime": 1792415410429,
+      "solveTime": 1792415428226,
+      "untitledPuzzleIndex": 23,
+      "noCannedHints": true
+    },
+    "385d592d": {
+      "type": "story",
+      "puzName": "385d592d",
+      "slug": "e47d371f",
+      "displayName": "",
+      "roundIds": [
+        "dj",
+        "taylor"
+      ],
+      "isNew": true,
+      "unlockTime": 1792429090074,
+      "solveTime": 1792429170920,
+      "untitledPuzzleIndex": 24,
+      "noCannedHints": true
+    },
+    "ad19a485": {
+      "type": "story",
+      "puzName": "ad19a485",
+      "slug": "a2bd0826",
+      "displayName": "",
+      "roundIds": [
+        "dj",
+        "lam"
+      ],
+      "isNew": true,
+      "unlockTime": 1792433545755,
+      "solveTime": 1792433596670,
+      "untitledPuzzleIndex": 25,
+      "noCannedHints": true
+    },
+    "0256f545": {
+      "type": "story",
+      "puzName": "0256f545",
+      "slug": "b859f444",
+      "displayName": "",
+      "roundIds": [
+        "camille",
+        "taylor"
+      ],
+      "isNew": true,
+      "unlockTime": 1792441923033,
+      "solveTime": 1792441950347,
+      "untitledPuzzleIndex": 26,
+      "noCannedHints": true
+    },
+    "be37a3e6": {
+      "type": "story",
+      "puzName": "be37a3e6",
+      "slug": "d306dec4",
+      "displayName": "",
+      "isNew": true,
+      "unlockTime": 1792441950348,
+      "solveTime": 1792441969248,
+      "untitledPuzzleIndex": 27,
+      "noCannedHints": true
+    },
+    "a123f78a": {
+      "type": "puzzle",
+      "puzName": "a123f78a",
+      "slug": "goodbye",
+      "displayName": "Goodbye",
+      "hasAnswer": true,
+      "answer": "LIFE IS BEST SOLVED TOGETHER",
+      "isNew": true,
+      "unlockTime": 1792441969249,
+      "solveTime": 1792478773470,
+      "isBigMeta": true
+    },
+    "33b73d55": {
+      "type": "story",
+      "puzName": "33b73d55",
+      "slug": "ef7c5e88",
+      "displayName": "",
+      "isNew": true,
+      "unlockTime": 1792478773471,
+      "untitledPuzzleIndex": 28,
+      "noCannedHints": true,
+      "isFinalCutscene": true
+    }
+  },
+  "huntStartTime": 1791584880000,
+  "huntEndTime": 1792448880000,
+  "finishedData": {
+    "numSolveCountPuzzles": 49,
+    "numCustomPuzzles": 0
+  },
+  "cutsceneChoices": {},
+  "lockedSolutions": {
+    "c6ca78d1": true,
+    "8c720c82": true,
+    "6b4799cf": true
+  }
+}

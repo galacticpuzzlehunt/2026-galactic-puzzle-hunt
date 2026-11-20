@@ -1,0 +1,115 @@
+{
+  "displayName": "Starship",
+  "rounds": {
+    "lam": {
+      "roundId": "lam",
+      "displayName": "Lam",
+      "slug": "lam",
+      "order": 2
+    },
+    "camille": {
+      "roundId": "camille",
+      "displayName": "Camille",
+      "slug": "camille",
+      "order": 0
+    },
+    "taylor": {
+      "roundId": "taylor",
+      "displayName": "Taylor",
+      "slug": "taylor",
+      "order": 3
+    }
+  },
+  "puzzles": {
+    "8ff41b05": {
+      "type": "story",
+      "puzName": "8ff41b05",
+      "slug": "8d52523f",
+      "displayName": "",
+      "roundIds": [
+        "lam"
+      ],
+      "isNew": true,
+      "unlockTime": 1795108327243,
+      "solveTime": 1795108355217,
+      "untitledPuzzleIndex": 0,
+      "noCannedHints": true,
+      "prologue": "lam"
+    },
+    "d541ab84": {
+      "type": "story",
+      "puzName": "d541ab84",
+      "slug": "4dde37dd",
+      "displayName": "",
+      "roundIds": [
+        "camille"
+      ],
+      "isNew": true,
+      "unlockTime": 1795108327244,
+      "solveTime": 1795108355231,
+      "untitledPuzzleIndex": 1,
+      "noCannedHints": true,
+      "prologue": "camille"
+    },
+    "ae2afada": {
+      "type": "story",
+      "puzName": "ae2afada",
+      "slug": "48012cfd",
+      "displayName": "",
+      "roundIds": [
+        "taylor"
+      ],
+      "isNew": true,
+      "unlockTime": 1795108327245,
+      "solveTime": 1795108387526,
+      "untitledPuzzleIndex": 2,
+      "noCannedHints": true,
+      "prologue": "taylor"
+    },
+    "49a61c92": {
+      "type": "puzzle",
+      "puzName": "49a61c92",
+      "slug": "6-7",
+      "displayName": "6 7",
+      "hasAnswer": true,
+      "roundIds": [
+        "camille"
+      ],
+      "isNew": true,
+      "unlockTime": 1795108387527,
+      "noCannedHints": true
+    },
+    "7f65289d": {
+      "type": "puzzle",
+      "puzName": "7f65289d",
+      "slug": "soup-of-the-day",
+      "displayName": "Soup of the Day",
+      "hasAnswer": true,
+      "roundIds": [
+        "lam"
+      ],
+      "isNew": true,
+      "unlockTime": 1795108387528
+    },
+    "d1166cbd": {
+      "type": "puzzle",
+      "puzName": "d1166cbd",
+      "slug": "enigmatic-travelers",
+      "displayName": "Enigmatic Travelers",
+      "hasAnswer": true,
+      "roundIds": [
+        "taylor"
+      ],
+      "isNew": true,
+      "unlockTime": 1795108387529
+    }
+  },
+  "huntStartTime": 1791584880000,
+  "huntEndTime": 1792448880000,
+  "finishedData": {
+    "numSolveCountPuzzles": 49,
+    "numCustomPuzzles": 0
+  },
+  "cutsceneChoices": {},
+  "lockedSolutions": {}
+}

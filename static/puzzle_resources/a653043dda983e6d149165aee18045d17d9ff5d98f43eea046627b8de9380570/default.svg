@@ -1,0 +1,124 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="590" height="414" viewBox="13 80 590 414">
+<style>
+  .wire  { fill: none; stroke: #000; stroke-width: 2; stroke-linejoin: round; }
+  .bad   { stroke: #d00; }                       /* '-' wire whose ends don't line up */
+  .dot   { fill: #000; }
+  .port  { fill: #000; }
+  .gate  { fill: #fff; stroke: #000; stroke-width: 2; }
+  .sym   { fill: #000; font: 22px Helvetica, Arial, sans-serif; text-anchor: middle; }
+  .label { font: bold 13px Helvetica, Arial, sans-serif; }
+  .in    { fill: #000; text-anchor: start; }
+  .out   { fill: #8a1c1c; text-anchor: middle; }
+</style>
+<g class="layer wires">
+  <path class="wire" d="M70,98 L70,126"/>
+  <path class="wire" d="M70,126 L182,126 L182,140"/>
+  <path class="wire" d="M70,126 L42,126 L42,140"/>
+  <path class="wire" d="M70,126 L70,140"/>
+  <path class="wire" d="M112,98 L112,140"/>
+  <path class="wire" d="M252,98 L252,112"/>
+  <path class="wire" d="M210,112 L210,140"/>
+  <path class="wire" d="M252,112 L210,112"/>
+  <path class="wire" d="M280,112 L420,112 L420,140"/>
+  <path class="wire" d="M210,112 L140,112 L140,140"/>
+  <path class="wire" d="M252,112 L280,112"/>
+  <path class="wire" d="M252,112 L252,140"/>
+  <path class="wire" d="M280,112 L280,140"/>
+  <path class="wire" d="M322,98 L322,126"/>
+  <path class="wire" d="M322,126 L392,126 L392,140"/>
+  <path class="wire" d="M322,126 L322,266 L336,266 L336,280"/>
+  <path class="wire" d="M448,98 L448,266"/>
+  <path class="wire" d="M448,266 L462,266 L462,280"/>
+  <path class="wire" d="M448,266 L434,266 L434,350"/>
+  <path class="wire" d="M490,98 L490,280"/>
+  <path class="wire" d="M462,98 L462,112"/>
+  <path class="wire" d="M462,112 L518,112 L518,140"/>
+  <path class="wire" d="M462,112 L462,196 L378,196 L378,210"/>
+  <path class="wire" d="M574,98 L574,112"/>
+  <path class="wire" d="M574,112 L546,112 L546,140"/>
+  <path class="wire" d="M574,112 L574,336"/>
+  <path class="wire" d="M574,336 L504,336 L504,350"/>
+  <path class="wire" d="M574,336 L574,350"/>
+  <path class="wire" d="M196,182 L196,196"/>
+  <path class="wire" d="M196,196 L350,196 L350,210"/>
+  <path class="wire" d="M406,182 L406,350"/>
+  <path class="wire" d="M476,322 L476,350"/>
+  <path class="wire" d="M532,182 L532,196 L546,196 L546,350"/>
+  <path class="wire" d="M364,252 L364,280"/>
+  <path class="wire" d="M308,98 L308,336 L322,336 L322,350"/>
+  <path class="wire" d="M350,322 L350,350"/>
+  <path class="wire" d="M336,392 L336,420"/>
+  <path class="wire" d="M490,392 L490,406"/>
+  <path class="wire" d="M490,406 L364,406 L364,420"/>
+  <path class="wire" d="M56,182 L56,476"/>
+  <path class="wire" d="M126,182 L126,476"/>
+  <path class="wire" d="M196,182 L196,476"/>
+  <path class="wire" d="M266,182 L266,476"/>
+  <path class="wire" d="M420,392 L420,476"/>
+  <path class="wire" d="M490,392 L490,476"/>
+  <path class="wire" d="M560,392 L560,476"/>
+  <path class="wire" d="M350,462 L350,476"/>
+</g>
+<g class="layer junctions">
+  <circle class="dot" cx="70" cy="126" r="4"/>
+  <circle class="dot" cx="210" cy="112" r="4"/>
+  <circle class="dot" cx="252" cy="112" r="4"/>
+  <circle class="dot" cx="280" cy="112" r="4"/>
+  <circle class="dot" cx="322" cy="126" r="4"/>
+  <circle class="dot" cx="448" cy="266" r="4"/>
+  <circle class="dot" cx="462" cy="112" r="4"/>
+  <circle class="dot" cx="574" cy="112" r="4"/>
+  <circle class="dot" cx="574" cy="336" r="4"/>
+  <circle class="dot" cx="196" cy="196" r="4"/>
+  <circle class="dot" cx="490" cy="406" r="4"/>
+</g>
+<g class="layer gates">
+  <rect class="gate" x="28" y="140" width="56" height="42" rx="4"/>
+  <text class="sym" x="56" y="169">×</text>
+  <rect class="gate" x="98" y="140" width="56" height="42" rx="4"/>
+  <text class="sym" x="126" y="169">+</text>
+  <rect class="gate" x="168" y="140" width="56" height="42" rx="4"/>
+  <text class="sym" x="196" y="169">×</text>
+  <rect class="gate" x="238" y="140" width="56" height="42" rx="4"/>
+  <text class="sym" x="266" y="169">^</text>
+  <rect class="gate" x="378" y="140" width="56" height="42" rx="4"/>
+  <text class="sym" x="406" y="169">÷</text>
+  <rect class="gate" x="448" y="280" width="56" height="42" rx="4"/>
+  <text class="sym" x="476" y="309">×</text>
+  <rect class="gate" x="504" y="140" width="56" height="42" rx="4"/>
+  <text class="sym" x="532" y="169">−</text>
+  <rect class="gate" x="336" y="210" width="56" height="42" rx="4"/>
+  <text class="sym" x="364" y="239">×</text>
+  <rect class="gate" x="392" y="350" width="56" height="42" rx="4"/>
+  <text class="sym" x="420" y="379">+</text>
+  <rect class="gate" x="462" y="350" width="56" height="42" rx="4"/>
+  <text class="sym" x="490" y="379">−</text>
+  <rect class="gate" x="532" y="350" width="56" height="42" rx="4"/>
+  <text class="sym" x="560" y="379">−</text>
+  <rect class="gate" x="322" y="280" width="56" height="42" rx="4"/>
+  <text class="sym" x="350" y="309">+</text>
+  <rect class="gate" x="308" y="350" width="56" height="42" rx="4"/>
+  <text class="sym" x="336" y="379">×</text>
+  <rect class="gate" x="322" y="420" width="56" height="42" rx="4"/>
+  <text class="sym" x="350" y="449">+</text>
+</g>
+<g class="layer terminals">
+  <circle class="port" cx="70" cy="98" r="4"/>
+  <circle class="port" cx="112" cy="98" r="4"/>
+  <circle class="port" cx="252" cy="98" r="4"/>
+  <circle class="port" cx="308" cy="98" r="4"/>
+  <circle class="port" cx="322" cy="98" r="4"/>
+  <circle class="port" cx="448" cy="98" r="4"/>
+  <circle class="port" cx="462" cy="98" r="4"/>
+  <circle class="port" cx="490" cy="98" r="4"/>
+  <circle class="port" cx="574" cy="98" r="4"/>
+  <circle class="port" cx="56" cy="476" r="4"/>
+  <circle class="port" cx="126" cy="476" r="4"/>
+  <circle class="port" cx="196" cy="476" r="4"/>
+  <circle class="port" cx="266" cy="476" r="4"/>
+  <circle class="port" cx="420" cy="476" r="4"/>
+  <circle class="port" cx="490" cy="476" r="4"/>
+  <circle class="port" cx="560" cy="476" r="4"/>
+  <circle class="port" cx="350" cy="476" r="4"/>
+</g>
+</svg>

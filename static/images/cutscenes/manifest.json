@@ -1,0 +1,78 @@
+{
+  "cgs": [
+    "dawn-1",
+    "dawn-2",
+    "dawn-3",
+    "heart-to-heart",
+    "personality-conflict",
+    "amorous-appointments",
+    "road-taylor",
+    "birth-charts",
+    "birth-charts-2",
+    "figuration",
+    "figuration-alt",
+    "menu-update"
+  ],
+  "backgrounds": [
+    "couch",
+    "park",
+    "park-midday",
+    "park-night",
+    "museum",
+    "convention-center",
+    "cafe-night",
+    "cafe"
+  ],
+  "characters": {
+    "taylor": [
+      "taylor-waving-center",
+      "taylor-thinking-center",
+      "taylor-smitten-center",
+      "taylor-finger-gun-center",
+      "taylor-forward-waving",
+      "taylor-forward-excited",
+      "taylor-holding-drink",
+      "taylor-finger-gun",
+      "taylor-smirking",
+      "taylor-sad-looking-up",
+      "taylor-sad",
+      "taylor-somber",
+      "taylor-neutral",
+      "taylor-thinking",
+      "taylor-awkward",
+      "taylor-hesitant"
+    ],
+    "dj": [
+      "dj-excited",
+      "dj-averting",
+      "dj-annoyed",
+      "dj-shy",
+      "dj-content",
+      "dj-neutral",
+      "dj-sitting-engrossed",
+      "dj-sitting",
+      "dj-closing-laptop"
+    ],
+    "lam": [
+      "lam-elated",
+      "lam-thinking",
+      "lam-tired",
+      "lam-annoyed",
+      "lam-neutral",
+      "lam-happy",
+      "lam-sleepy",
+      "lam-cheeky"
+    ],
+    "camille": [
+      "camille-bittersweet",
+      "camille-sad",
+      "camille-sad-looking-down",
+      "camille-sensitive",
+      "camille-cocky",
+      "camille-annoyed",
+      "camille-happy",
+      "camille-shy",
+      "camille-leaning-forward"
+    ]
+  }
+}

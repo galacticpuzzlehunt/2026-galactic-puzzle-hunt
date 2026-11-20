@@ -1,0 +1,141 @@
+
+<!doctype html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <meta name="format-detection" content="telephone=no">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, interactive-widget=resizes-content">
+    <meta name="darkreader-lock">
+    <title>Data Policy – Galactic Puzzle Hunt</title>
+    <meta property="og:title" content="Data Policy – Galactic Puzzle Hunt">
+    <meta property="og:description" content="Who’s coming to the reunion? RSVP now!">
+    <meta property="og:image" content="https://2026.galacticpuzzlehunt.com/static/images/banner.png">
+    <meta name="theme-color" content="#96380F">
+    
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/8.0.1/normalize.min.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/toastr.js/latest/toastr.min.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link
+      href="https://fonts.googleapis.com/css2?family=DM+Mono:ital,wght@0,400;0,500;1,400;1,500&display=swap"
+      rel="stylesheet"
+    />
+    <link href="https://fonts.googleapis.com/css2?family=Noto+Emoji&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="/static/base.css">
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/toastr.js/latest/toastr.min.js"></script>
+    <script src="/static/js/jquery.formset.js"></script>
+    <script src="/static/js/tray.js"></script>
+    <script src="/static/js/time.js"></script>
+    <script src="/static/js/copyjack.js"></script>
+    
+    <link rel="icon" href="/static/images/favicon.ico" sizes="32x32">
+    <link rel="icon" href="/static/images/icon.svg" type="image/svg+xml">
+    
+    <link rel="manifest" href="/static/manifest.webmanifest">
+    
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-Y1N52VY61R"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-Y1N52VY61R', {cookie_flags: 'secure;samesite=none'});
+</script>
+
+</head>
+<body>
+    <nav id="slide-nav">
+        <div id="slide-nav-contents">
+            <svg id="menu-logo" version="1.1" viewBox="0 0 320 240" xmlns="http://www.w3.org/2000/svg">
+                <symbol id="menu-path" viewBox="0 0 320 240">
+                    <path d="m270.86 14.531c-30.068-0.6928-67.086 15.437-70.859 45.469 43.323-33.311 104.18-28.73 70 10-74.02 83.873 4.9036 114.42 10 110-45.03-37.376-8.3333-66.092 20-110 24.044-37.26 0.9269-54.776-29.141-55.469zm-40.938 172.95c0.024 22.52-1.5838 46.406 30.039 46.406h9.9414c15.413 0 22.947-5.6761 26.602-14.102 7.4197-0.75632 13.496-4.1895 13.496-19.785 0-6.5653-4.3069-8.8131-10.098-6.7578-7e-3 -1.9177-0.032-3.8482-0.039-5.7617zm71.133 10.312c2.6038 7e-3 4.3749 1.7069 3.6914 7.9492-0.6895 6.2979-3.4842 7.9795-6.4648 8.6328 1.2059-5.0297 1.5285-10.667 1.6016-16.484 0.4008-0.06 0.7999-0.099 1.1719-0.098z"/>
+                </symbol>
+                <use href="#menu-path" />
+                <text x="9.1999817" y="72.680054" font-family="Basteleur Moonlight" font-size="80px" font-weight="300" letter-spacing="-10px" style="line-height:1" xml:space="preserve"><tspan x="9.1999817" y="72.680054">the</tspan><tspan x="9.1999817" y="152.68005">little</tspan><tspan x="9.1999817" y="232.68005">riddle</tspan></text>
+            </svg>
+            
+                
+                
+                    <div id="nav-team-name"></div>
+                
+            
+            <div class="site-nav">
+            
+                <hr>
+                <a href="/">Home</a>
+                <a href="/about">About</a>
+                
+                <a href="/cafe">Puzzles</a>
+                
+                <a href="/teams">Teams</a>
+                <a href="https://galacticpuzzlehunt.com/archive">Archive</a>
+                <a href="/wrapup">Wrap-Up</a>
+            
+            </div>
+            
+        </div>
+        <button type="button" id="menu-btn" aria-label="Open navigation" aria-controls="site-nav" aria-expanded="false">
+            <span>
+                <svg width="320" height="240" version="1.1" viewBox="0 0 320 240" xmlns="http://www.w3.org/2000/svg">
+                    <symbol id="menu-copy" viewBox="0 0 320 240">
+                        <rect height="100%" width="10" x="2.65em" y="-4" stroke-width="2" />
+                        <use href="#menu-path" height="3.6em" x="-163" y="8" stroke-width="8" />
+                    </symbol>
+                    <mask id="menu-mask" mask-type="alpha">
+                        <use href="#menu-copy" />
+                    </mask>
+                    <use href="#menu-copy" id="menu-line" />
+                </svg>
+            </span>
+            <div class="menu-badge"></div>
+        </button>
+    </nav>
+    <script>
+        function showNotify(data) {
+            const {title, text, link} = JSON.parse(data);
+            toastr.info(text, title, {
+                timeOut: 30000, extendedTimeOut: 30000, closeButton: true,
+                onclick: () => window.open(link, '_blank'),
+            });
+        }
+        
+    </script>
+    
+
+<h1>Data Use Policy</h1>
+
+<main>
+  <p>
+    Individual authors retain the copyrights to puzzles and solutions in the
+    <a href="https://galacticpuzzlehunt.com/archive">Galactic Puzzle Hunt archive</a>, which we
+    reproduce with permission. Limited non-commercial usage subject to fair use
+    is allowed. For example, you can print the puzzles for a non-commercial
+    puzzle event, provided that you give appropriate credit (including the
+    author names and a link to the Galactic Puzzle Hunt archive). Other usage of
+    puzzles and solutions without permission of each individual author
+    constitutes copyright infringement.
+  </p>
+  <p>
+    Data mining for commercial purposes or for assembling training material
+    requires permission. For any requests regarding usage, permissions, or
+    other inquiries, please contact us at
+    <a href="mailto:contact@galacticpuzzlehunt.com">contact@galacticpuzzlehunt.com</a>.
+  </p>
+</main>
+
+
+    
+    <link rel="stylesheet" href="/static/game/assets/main-F8OTLTkO.css">
+    <script type="module" src="/static/game/assets/main-DvShi5mu.js"></script>
+    <script>
+        window.djangoBaseUrl = "https://2026.galacticpuzzlehunt.com/";
+        window.clientVersion = "/static/game/assets/main-DvShi5mu.js";
+        
+            window.isPosthunt = true;
+        
+    </script>
+    
+</body>
+</html>
